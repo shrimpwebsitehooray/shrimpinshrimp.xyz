@@ -1,6 +1,3 @@
-welcome to my awesome website!!!
-am shrimpinshrimp
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -10,7 +7,7 @@ am shrimpinshrimp
 </head>
 <body>
 
-    <h1>Welcome to My Website</h1>
+    <h1>shrimpinshrimp welcome haha!!!</h1>
     
     <!-- Image from an online URL -->
     <img src="https://th.bing.com/th/id/OIP.m62yxjyNWQDrq8ZbUszyeAHaFP?rs=1&pid=ImgDetMain" alt="Nature Landscape">
